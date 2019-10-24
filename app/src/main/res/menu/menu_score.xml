@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cheesecake.fahim.geniusorbimbo.ScoreActivity">
+    <item android:id="@+id/menu_button_home_2" android:title="Home"
+        android:icon="@drawable/ic_home"
+        android:orderInCategory="100" app:showAsAction="always" />
+</menu>

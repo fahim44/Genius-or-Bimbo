@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.cheesecake.fahim.geniusorbimbo.ResultActivity"
+    android:background="@drawable/bg_main_portrait">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#8effffff">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Your score : "
+            android:id="@+id/tv_extra_1"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="20"
+            android:id="@+id/tv_score"
+            android:layout_below="@+id/tv_extra_1"
+            android:layout_alignRight="@+id/tv_extra_1"
+            android:layout_alignEnd="@+id/tv_extra_1"
+            android:textSize="40sp"
+            android:textColor="@android:color/holo_green_dark"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="/ 20"
+            android:id="@+id/tv_total_score"
+            android:textSize="50sp"
+            android:layout_alignBottom="@+id/tv_score"
+            android:layout_centerHorizontal="true"
+            android:textColor="@android:color/holo_red_dark"/>
+
+        <ExpandableListView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/exp_list_results"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/tv_score"
+            android:indicatorLeft="?android:attr/expandableListPreferredItemIndicatorLeft"
+            android:divider="#A4C739"
+            android:dividerHeight="0.5dp"/>
+
+    </RelativeLayout>
+</RelativeLayout>

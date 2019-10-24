@@ -1,0 +1,492 @@
+<?xml version="1.0"?>
+<questions>
+	<question>
+		<questionId>0</questionId>
+		<questionTitle>The maker doesn't want it; the buyer doesn't use it; and the user doesn't see it. What is it?</questionTitle>
+		<option1>Coffin</option1>
+		<option2>Blind man's stick</option2>
+		<option3>Car</option3>
+		<ans>1</ans>
+		<ansDescription>A coffin.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>1</questionId>
+		<questionTitle>Before Mount Everest was discovered, what was the highest mountain on Earth?</questionTitle>
+		<option1>K2</option1>
+		<option2>Kangchenjunga</option2>
+		<option3>Mount Everest</option3>
+		<ans>3</ans>
+		<ansDescription>Mount Everest (it just hadn't been discovered).</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>2</questionId>
+		<questionTitle>How many times can you subtract the number 5 from 25?</questionTitle>
+		<option1>1</option1>
+		<option2>5</option2>
+		<option3>25</option3>
+		<ans>1</ans>
+		<ansDescription>Only once, and then you are subtracting it from 20.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>3</questionId>
+		<questionTitle> How could you rearrange the letters in the words "new door" to make one word? Note: There is only one correct answer.</questionTitle>
+		<option1>newDoor</option1>
+		<option2>new_door</option2>
+		<option3>one word</option3>
+		<ans>3</ans>
+		<ansDescription>"one word"</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>4</questionId>
+		<questionTitle>Which is correct to say, "The yolk of the egg are white" or "The yolk of the egg is white"?</questionTitle>
+		<option1>"The yolk of the egg are white"</option1>
+		<option2>"The yolk of the egg is white"</option2>
+		<option3>Neither</option3>
+		<ans>3</ans>
+		<ansDescription>Neither. The yolk of the egg is yellow.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>5</questionId>
+		<questionTitle>After the new Canon Law that took effect on November 27, 1983, would a Roman Catholic man be allowed to marry his widow's sister?</questionTitle>
+		<option1>Yes</option1>
+		<option2>No</option2>
+		<option3>Conditions Apply</option3>
+		<ans>1</ans>
+		<ansDescription>No. A dead man can marry no one.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>6</questionId>
+		<questionTitle>How many outs are there in an inning?</questionTitle>
+		<option1>1</option1>
+		<option2>6</option2>
+		<option3>3</option3>
+		<ans>2</ans>
+		<ansDescription>Six . Three in each half of the inning.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>7</questionId>
+		<questionTitle>How many animals of each sex did Moses take on the Ark?</questionTitle>
+		<option1>10</option1>
+		<option2>0</option2>
+		<option3>2</option3>
+		<ans>2</ans>
+		<ansDescription>Moses took no animals. It was Noah on the Ark.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>8</questionId>
+		<questionTitle>A farmer has 17 sheep and all but 9 die. How many are left?</questionTitle>
+		<option1>0</option1>
+		<option2>8</option2>
+		<option3>9</option3>
+		<ans>3</ans>
+		<ansDescription>Nine.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>9</questionId>
+		<questionTitle>A murderer is condemned to death. He has to choose between three rooms. The first is full of raging fires, the second is full of assassins with loaded guns, and the third is full of lions that haven't eaten in 3 years. Which room is safest for him?</questionTitle>
+		<option1>The first</option1>
+		<option2>The second</option2>
+		<option3>the third</option3>
+		<ans>3</ans>
+		<ansDescription>The third. Lions that haven't eaten in three years are dead.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>10</questionId>
+		<questionTitle>What is black when you buy it, red when you use it, and gray when you throw it away?</questionTitle>
+		<option1>Charcoal</option1>
+		<option2>Marvel</option2>
+		<option3>Nothing</option3>
+		<ans>1</ans>
+		<ansDescription>Charcoal.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>11</questionId>
+		<questionTitle>Which is the odd one out?</questionTitle>
+		<option1>Congregation</option1>
+		<option2>Dispersion</option2>
+		<option3>Aggregation</option3>
+		<ans>2</ans>
+		<ansDescription>Dispersion: it means scattering, the rest are gathering.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>12</questionId>
+		<questionTitle>A Z B Y D W G T ? ?  Which two letters come next?</questionTitle>
+		<option1>HU</option1>
+		<option2>IV</option2>
+		<option3>KP</option3>
+		<ans>3</ans>
+		<ansDescription>KP: there are two alternate sequences. Starting at A, ABcDefGhijK; starting at Z, ZYxWvuTsrqP.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>13</questionId>
+		<questionTitle>How many cases do you need if you have to pack 112 pairs of shoes into cases that each hold 28 shoes?</questionTitle>
+		<option1>1</option1>
+		<option2>8</option2>
+		<option3>28</option3>
+		<ans>2</ans>
+		<ansDescription>8: 112 pairs of shoes = 224 shoes. 224 ÷ 28 = 8.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>14</questionId>
+		<questionTitle>Which number is the odd one out?</questionTitle>
+		<option1>47632</option1>
+		<option2>36119</option2>
+		<option3>67626</option3>
+		<ans>1</ans>
+		<ansDescription>47632: all the others are three-digit numbers followed by their square root, eg 361 followed by its square root, 19.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>15</questionId>
+		<questionTitle>Which word is most opposite in meaning to the word in "REPLETE"?</questionTitle>
+		<option1>open</option1>
+		<option2>barren</option2>
+		<option3>energetic</option3>
+		<ans>2</ans>
+		<ansDescription>barren.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>16</questionId>
+		<questionTitle>Which word is out of sequence?     manage, aplomb, fedora, manual, jumble, junior, author</questionTitle>
+		<option1>manage</option1>
+		<option2>fedora</option2>
+		<option3>junior</option3>
+		<ans>2</ans>
+		<ansDescription>fedora: the rest are a sequence where the first two letters are also the first two letters of the months March, April, May, June, July, August.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>17</questionId>
+		<questionTitle>What number is, logically, missing from the sequence?   348269, 284315, *****, 8438, 4811, 842, 86</questionTitle>
+		<option1>34826</option1>
+		<option2>43292</option2>
+		<option3>32344</option3>
+		<ans>1</ans>
+		<ansDescription>34826: each number is the sum of the last two digits of the previous number, preceded by the remaining numbers in reverse.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>18</questionId>
+		<questionTitle>4, 45, 11.3, 41.3, ?, ?, 25.9, 33.9       Which two numbers should replace the question marks?</questionTitle>
+		<option1>13.6, 23.6</option1>
+		<option2>20, 42.8</option2>
+		<option3>18.6, 37.6</option3>
+		<ans>3</ans>
+		<ansDescription>18.6, 37.6. There are two interwoven sequences: starting at 45 alternate numbers are –3.7. Starting at 4 alternate numbers are +7.3.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>19</questionId>
+		<questionTitle>Identify two words (one from each set of brackets) that form a connection (analogy), thereby relating to the words in capitals in the same way.		LUMBER (arm, timber, back, neck)		TIBIAL (knee, leg, brain, drum)</questionTitle>
+		<option1>arm,leg</option1>
+		<option2>neck,brain</option2>
+		<option3>back,leg</option3>
+		<ans>3</ans>
+		<ansDescription>back,leg.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>20</questionId>
+		<questionTitle>Which has the highest mountain: Earth, Mars, or Jupiter?</questionTitle>
+		<option1>Earth</option1>
+		<option2>Mars</option2>
+		<option3>Jupiter</option3>
+		<ans>2</ans>
+		<ansDescription>Mars (Mount Olympus on Mars is 13.6 miles high.).</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>21</questionId>
+		<questionTitle>Which city has the largest population?</questionTitle>
+		<option1>New York</option1>
+		<option2>Mumbai</option2>
+		<option3>Tokyo</option3>
+		<ans>3</ans>
+		<ansDescription>Tokyo (Population : 33,200,000).</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>22</questionId>
+		<questionTitle>Which country claims the world's tallest building?</questionTitle>
+		<option1>Russia</option1>
+		<option2>Malaysia</option2>
+		<option3>China</option3>
+		<ans>2</ans>
+		<ansDescription>Malaysia,(the twin Petronas Towers at 1,483 feet.).</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>23</questionId>
+		<questionTitle>With which device are earthquakes recorded?</questionTitle>
+		<option1>Seismograph</option1>
+		<option2>Smartmeter</option2>
+		<option3>Sphygmomanometer</option3>
+		<ans>1</ans>
+		<ansDescription>Seismographs are instruments that measure motion of the ground, including those of seismic waves generated by earthquakes, volcanic eruptions, and other seismic sources.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>24</questionId>
+		<questionTitle>What is 'Tiger' Woods's first name?</questionTitle>
+		<option1>John</option1>
+		<option2>Walter</option2>
+		<option3>Eldrick</option3>
+		<ans>3</ans>
+		<ansDescription>Eldrick Tont "Tiger" Woods is an American professional golfer who is among the most successful golfers of all time.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>25</questionId>
+		<questionTitle>What are Alpha Centauri and Sirius?</questionTitle>
+		<option1>Galaxies</option1>
+		<option2>Stars</option2>
+		<option3>Meteors</option3>
+		<ans>2</ans>
+		<ansDescription>Stars.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>26</questionId>
+		<questionTitle>Which country is bordered by both the Atlantic and Indian Oceans?</questionTitle>
+		<option1>Republic of South Africa</option1>
+		<option2>Egypt</option2>
+		<option3>Nigeria</option3>
+		<ans>1</ans>
+		<ansDescription>The Republic of South Africa is located on the southern tip of the continent of Africa.It has some unique geographical features.For example, on the East, it borders the Indian Ocean while on the West, it borders the Atlantic Ocean.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>27</questionId>
+		<questionTitle>Which insect accurately indicates the air temperature?</questionTitle>
+		<option1>Bee</option1>
+		<option2>Cricket</option2>
+		<option3>Horntails</option3>
+		<ans>2</ans>
+		<ansDescription>Cricket(To get a rough estimate of the temperature in degrees fahrenheit, count the number of chirps in 15 seconds and then add 37. The number you get will be an approximation of the outside temperature.).</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>28</questionId>
+		<questionTitle>How many men have walked on the moon?</questionTitle>
+		<option1>4</option1>
+		<option2>8</option2>
+		<option3>12</option3>
+		<ans>3</ans>
+		<ansDescription>12.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>29</questionId>
+		<questionTitle>In which country would one find 8 of the world's 10 highest mountains?</questionTitle>
+		<option1>Nepal</option1>
+		<option2>India</option2>
+		<option3>Egypt</option3>
+		<ans>1</ans>
+		<ansDescription>Nepal.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>30</questionId>
+		<questionTitle>Which is the world's second-largest country in land area?</questionTitle>
+		<option1>India</option1>
+		<option2>China</option2>
+		<option3>Canada</option3>
+		<ans>3</ans>
+		<ansDescription>Canada (Largest country in the Americas, and second-largest in world and largest surface area of water.).</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>31</questionId>
+		<questionTitle>What is the most common blood type in humans?</questionTitle>
+		<option1>Type A</option1>
+		<option2>Type B</option2>
+		<option3>Type O</option3>
+		<ans>3</ans>
+		<ansDescription>Type O(In general, Rh negative blood is given to Rh-negative patients, and Rhpositive blood or Rh negative blood may be given to Rh positive patients. The universal red cell donor has Type O negative blood type. The universal plasma donor has Type AB positive blood type.).</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>32</questionId>
+		<questionTitle>The first television set was sold in which year?</questionTitle>
+		<option1>1928</option1>
+		<option2>1938</option2>
+		<option3>1948</option3>
+		<ans>1</ans>
+		<ansDescription>1928.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>33</questionId>
+		<questionTitle>The name of which area in the Pacific means "many islands"?</questionTitle>
+		<option1>Mononeasia</option1>
+		<option2>Polynesia</option2>
+		<option3>Dinesia</option3>
+		<ans>2</ans>
+		<ansDescription>Polynesia("Poly": Greek, 'many' "Nesos": Greek, 'islands').</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>34</questionId>
+		<questionTitle>What is the only word in English ending in the letters 'mt'?</questionTitle>
+		<option1>Reamt</option1>
+		<option2>Quemt</option2>
+		<option3>Dreamt</option3>
+		<ans>3</ans>
+		<ansDescription>"Dreamt". ex: They have dreamt of the same dream.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>35</questionId>
+		<questionTitle>When there are two full moons in the same month, what is the second called?</questionTitle>
+		<option1>Blue Moon</option1>
+		<option2>Red Moon</option2>
+		<option3>Yellow Moon</option3>
+		<ans>1</ans>
+		<ansDescription>Blue Moon.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>36</questionId>
+		<questionTitle>Which word does the 'e' in 'e-mail' stand for?</questionTitle>
+		<option1>Electric</option1>
+		<option2>Electronic</option2>
+		<option3>Electrical</option3>
+		<ans>2</ans>
+		<ansDescription>Electronic.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>37</questionId>
+		<questionTitle>What is the currency of Switzerland?</questionTitle>
+		<option1>Euro</option1>
+		<option2>Pound</option2>
+		<option3>Swiss Franc</option3>
+		<ans>3</ans>
+		<ansDescription>Switzerland remains with the Swiss franc, usually indicated as CHF.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>38</questionId>
+		<questionTitle>What is the business term for assets which can be immediately turned into cash?</questionTitle>
+		<option1>Solid assets</option1>
+		<option2>Gaseous assets</option2>
+		<option3>Liquid assets</option3>
+		<ans>3</ans>
+		<ansDescription>Liquid assets are generally regarded in the same light as cash because their prices are relatively stable when they are sold on the open market.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>39</questionId>
+		<questionTitle>Which country beginning with a 'T' has a shoreline on the Andaman Sea?</questionTitle>
+		<option1>Taiwan</option1>
+		<option2>Thailand</option2>
+		<option3>Tanzania</option3>
+		<ans>2</ans>
+		<ansDescription>The southwestern shoreline of Thailand meets the Andaman Sea of the Indian Ocean to the west.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>40</questionId>
+		<questionTitle>Which is the largest planet in the solar system?</questionTitle>
+		<option1>Saturn</option1>
+		<option2>Mars</option2>
+		<option3>Jupiter</option3>
+		<ans>3</ans>
+		<ansDescription>The largest planet in our solar system by far is Jupiter, which beats out all the other planets in both mass and volume.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>41</questionId>
+		<questionTitle>In which country is the world's largest McDonalds Restaurant?</questionTitle>
+		<option1>Japan</option1>
+		<option2>Germany</option2>
+		<option3>China</option3>
+		<ans>3</ans>
+		<ansDescription>China(McDonald's is the largest chain of fast food restaurants in the world. It has more than 35,000 outlets worldwide.).</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>42</questionId>
+		<questionTitle>Which is largest?</questionTitle>
+		<option1>a megabyte</option1>
+		<option2>a kilobyte</option2>
+		<option3>a gigabyte</option3>
+		<ans>3</ans>
+		<ansDescription>kilobyte = 1024 bytes. megabyte = 1024 kilobytes.gigabyte = 1024 megabytes.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>43</questionId>
+		<questionTitle>What is Triskaidekaphobia?</questionTitle>
+		<option1>Fear of the number 13</option1>
+		<option2>Fear of the number 21</option2>
+		<option3>Fear of the number 35</option3>
+		<ans>1</ans>
+		<ansDescription>Fear of the number 13(extreme superstition regarding the number thirteen.).</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>44</questionId>
+		<questionTitle>One tablespoon = how many teaspoons?</questionTitle>
+		<option1>3</option1>
+		<option2>4</option2>
+		<option3>5</option3>
+		<ans>1</ans>
+		<ansDescription>3.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>45</questionId>
+		<questionTitle>What does a numismatist do?</questionTitle>
+		<option1>Collects stamps</option1>
+		<option2>Collects coins</option2>
+		<option3>Collects photos</option3>
+		<ans>2</ans>
+		<ansDescription>Numismatics is the study or collection of currency, including coins, tokens, paper money, and related objects.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>46</questionId>
+		<questionTitle>What is the capitol of the Netherlands?</questionTitle>
+		<option1>Paris</option1>
+		<option2>Amsterdam</option2>
+		<option3>Hague</option3>
+		<ans>2</ans>
+		<ansDescription>Amsterdam.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>47</questionId>
+		<questionTitle>What is the green pigment in plants called?</questionTitle>
+		<option1>Chlorophyll</option1>
+		<option2>Mitochondria</option2>
+		<option3>Ribosome</option3>
+		<ans>1</ans>
+		<ansDescription>Chlorophyll.</ansDescription>
+	</question>
+	
+	<question>
+		<questionId>48</questionId>
+		<questionTitle>To the nearest mile, what is the length of the marathon?</questionTitle>
+		<option1>28 miles</option1>
+		<option2>26 miles</option2>
+		<option3>20 miles</option3>
+		<ans>2</ans>
+		<ansDescription>26 miles, it is actually 26.2 miles so just a little more than 26 miles.</ansDescription>
+	</question>
+</questions>
